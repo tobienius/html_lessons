@@ -1,0 +1,39 @@
+
+    img{
+        width: 400px;
+        height: 400px;
+    }
+    .row{
+        display: flex;
+        margin: 30px;
+    }
+    .col-6 h2{
+        margin-left: 25px;
+        font-size: 28px;
+    }
+    h2 span{
+        text-decoration: line-through;
+        color: green;
+    }
+    
+    h1 {
+        margin-left: 25px;
+        text-transform: capitalize;
+        color: #333;
+    }
+    p{
+        margin-left: 25px;
+    }
+    img{
+        border-radius: 30px;
+        border: solid rgb(9, 61, 63);
+    }
+    button{
+        margin-left: 25px;
+        background-color: green;
+        font-size: 15px;
+        text-transform: capitalize;
+        color: white;
+        margin-top: 20px;
+    }
+   
